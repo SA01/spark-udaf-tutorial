@@ -1,4 +1,4 @@
-# Apache Spark UDAF Tutorial: User-Defined Aggregate Functions in Apache Spark
+# Spark UDAF Tutorial
 
 This repository contains the code and examples for my article on Medium, which explains how to create and use User-Defined Aggregate Functions (UDAFs) in Apache Spark. You can read the full article here:  
 [**User-Defined Aggregate Functions (UDAFs) in Apache Spark**](https://medium.com/@suffyan.asad1/user-defined-aggregate-functions-udafs-in-apache-spark-ba373183cbc1)
